@@ -6,4 +6,5 @@ RUN apt-get update && apt-get install -y \
     netcat-openbsd \
     nftables \
     iproute2 \
-    dnsutils
+    dnsutils \
+    traceroute
